@@ -1,7 +1,9 @@
-# ReactJSExamples.github.io
+
+> This organizatoin will be a collection of ReactJs code practices and collection of libraries.
 > This will be the main repo to browse through this origanization.
 
-`You are welcome to collaborate :smile:`
+
+__`You are welcome to collaborate :smile:`__
 
 
 ### Links:
